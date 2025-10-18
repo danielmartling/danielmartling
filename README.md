@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @danielmartling
-- 👀 I’m interested in mathematics, physics, scouting, music, python, java, linux...
-- 🌱 I’m currently learning html, javascript, css
+
